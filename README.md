@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Mantaroh 🚀
+[![@mantaroh Astro contributions](https://astro.badg.es/v2/contributor/mantaroh.svg)](https://astro.badg.es/contributor/mantaroh/)
 <!--
 **mantaroh/mantaroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
