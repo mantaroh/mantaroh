@@ -1,7 +1,6 @@
 ## Mantaroh 🚀
 
 OSS:
-- Astro Docs
 - Mozilla ([credits](https://www.mozilla.org/credits/))
 - W3C ([Scroll-drive Animation API](https://www.w3.org/TR/scroll-animations-1/))
 - etc
