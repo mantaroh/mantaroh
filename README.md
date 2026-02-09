@@ -8,7 +8,8 @@ OSS:
 [![@mantaroh Astro contributions](https://astro.badg.es/v2/contributor/mantaroh.svg)](https://astro.badg.es/contributor/mantaroh/)
 
 ## Work
-I'm working at Unimal in Japan.
+
+VPoE of Unimal co.,ltd.
 
 ![image](https://github.com/mantaroh/mantaroh/assets/3241026/e747c942-4192-4057-a149-b3c47fc82ba6)
 
@@ -16,7 +17,7 @@ Previously @mozilla Firefox.
 
 ## Study
 Doctral course in Kagoshima Univ.  
-Research title is "Generating HTML with Machine Learning".
+Research title is "Generating HTML with LLM".
 
 [Study abstraction](https://www.slideshare.net/secret/4HgjtLgkhX1gYt) (Sorry, Japanese slide)
 
