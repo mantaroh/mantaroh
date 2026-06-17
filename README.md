@@ -5,8 +5,6 @@ OSS:
 - W3C ([Scroll-drive Animation API](https://www.w3.org/TR/scroll-animations-1/))
 - etc
 
-[![@mantaroh Astro contributions](https://astro.badg.es/v2/contributor/mantaroh.svg)](https://astro.badg.es/contributor/mantaroh/)
-
 ## Work
 
 VPoE of Unimal co.,ltd.
@@ -17,7 +15,7 @@ Previously @mozilla Firefox.
 
 ## Study
 Doctral course in Kagoshima Univ.  
-Research title is "Generating HTML with LLM".
+Research title is "Generating Web Content with LLM".
 
 [Study abstraction](https://www.slideshare.net/secret/4HgjtLgkhX1gYt) (Sorry, Japanese slide)
 
