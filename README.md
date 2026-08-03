@@ -3,6 +3,7 @@
 OSS:
 - Mozilla ([credits](https://www.mozilla.org/credits/))
 - W3C ([Scroll-drive Animation API](https://www.w3.org/TR/scroll-animations-1/))
+- Orca ([Orca ADE](https://github.com/stablyai/orca#developing))
 - etc
 
 ## Work
